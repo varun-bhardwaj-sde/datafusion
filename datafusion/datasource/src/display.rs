@@ -17,7 +17,7 @@
 
 use datafusion_physical_plan::{DisplayAs, DisplayFormatType};
 
-use crate::file_groups::FileGroup;
+use crate::file_groups::FileGroup;;
 use std::fmt::{Debug, Formatter, Result as FmtResult};
 
 /// A wrapper to customize partitioned file display
